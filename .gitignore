@@ -1,0 +1,6 @@
+data/*
+dat/*
+.ipynb_checkpoints*
+__pycache__*
+PDFs*
+*DS_Store*

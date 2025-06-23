@@ -2,7 +2,7 @@
 
 This repository contains code to perform the simulations and generate the figures in:
 
-[Interpretable reservoir computing with resonant recurrent neural networks]()
+[Brain-inspired interpretable reservoir computing with resonant recurrent neural networks](https://arxiv.org/abs/2506.17083)
 
 ---
 
